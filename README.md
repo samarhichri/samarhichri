@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps Engineer with hands-on experience designing, automating and supporting enterprise-grade OpenShift, RHEL and CI/CD environments.Strong ability to translate complex technical topics into clear presentations (Toastmasters) and beginner-friendly tutorials (YouTube). Passionate about open-source technologies, security best practices and operational excellence.
+DevOps Engineer with hands-on experience designing, automating and<br>supporting enterprise-grade OpenShift, RHEL and CI/CD environments.<br>Strong ability to translate complex technical topics into clear presenta-<br>tions (Toastmasters) and beginner-friendly tutorials (YouTube). Passionate<br>about open-source technologies, security best practices and operational<br>excellence.
 
 
 ## 🌐 Socials:
